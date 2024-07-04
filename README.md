@@ -2,6 +2,9 @@
 
 Este é um projeto pessoal onde recriei a interface do Spotify utilizando tecnologias modernas. O objetivo é fornecer um exemplo prático de como construir interfaces de usuário complexas e responsivas.
 
+<img src="![image](https://github.com/henriquepmartins/spotify-clone/assets/125284120/098e8de2-3e49-4c43-bd65-16783ce21a81)"
+
+
 ## Tecnologias Utilizadas
 
 - **Next.js**: Framework React para renderização do lado do servidor e construção de aplicações web.
@@ -30,8 +33,10 @@ Este é um projeto pessoal onde recriei a interface do Spotify utilizando tecnol
    git clone https://github.com/henriquepmartins/spotify-clone.git
    
 2. Instale as dependências:
-   ```pnpm install
+   ```sh
+   pnpm install
 
 3. Execute o servidor de desenvolvimento:
-  ```pnpm dev
+  ```sh
+   pnpm dev
 
