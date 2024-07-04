@@ -2,7 +2,7 @@
 
 Este é um projeto pessoal onde recriei a interface do Spotify utilizando tecnologias modernas. O objetivo é fornecer um exemplo prático de como construir interfaces de usuário complexas e responsivas.
 
-<img src="![image](https://github.com/henriquepmartins/spotify-clone/assets/125284120/098e8de2-3e49-4c43-bd65-16783ce21a81)"
+"![image](https://github.com/henriquepmartins/spotify-clone/assets/125284120/098e8de2-3e49-4c43-bd65-16783ce21a81)"
 
 
 ## Tecnologias Utilizadas
