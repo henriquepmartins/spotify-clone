@@ -34,7 +34,7 @@ Este é um projeto pessoal onde recriei a interface do Spotify utilizando tecnol
    
 2. Instale as dependências:
    ```sh
-   pnpm install
+   pnpm install 
 
 3. Execute o servidor de desenvolvimento:
   ```sh
