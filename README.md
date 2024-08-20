@@ -39,4 +39,3 @@ Este é um projeto pessoal onde recriei a interface do Spotify utilizando tecnol
 3. Execute o servidor de desenvolvimento:
   ```sh
    pnpm dev
-
